@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pentatonictritones
 - 👀 Working on cool math applications, smart contracts and super interested in Decentralised finance and other applications of blockchain to build new institutions.
-- 🌱 I’m currently learning solidity and rust.
+- 🌱 I’m currently working with solidity and learning rust for smart contracts.
 - 💞️ I love working on open-source software that is actually useful.
 
 <!---
